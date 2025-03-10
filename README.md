@@ -1,6 +1,6 @@
 # Personal Expense Tracker
-![Expense Tracker UI](https://github.com/hemantshirsath/Expensetracker/assets/102463335/f31d97f4-4841-44cb-b2af-62286c60a0c9)
-![forecast Expense UI ](https://github.com/hemantshirsath/Expensetracker/assets/102463335/c1188567-39c5-4cc1-8916-24f3d3712ee8)
+![Expense Tracker UI](https://github-production-user-asset-6210df.s3.amazonaws.com/102463335/277596025-f31d97f4-4841-44cb-b2af-62286c60a0c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250310T091248Z&X-Amz-Expires=300&X-Amz-Signature=130e421dfb1cb1499b7fc4be76d7c39f89d5471fbe455fe1c0fab67e0f097194&X-Amz-SignedHeaders=host)
+![forecast Expense UI ](https://github-production-user-asset-6210df.s3.amazonaws.com/102463335/277673170-c1188567-39c5-4cc1-8916-24f3d3712ee8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250310T091345Z&X-Amz-Expires=300&X-Amz-Signature=f5b69aeb2b1a31f4830579fd74f09189dff941ef2aa2c4f3c9b00f4fb02b7dde&X-Amz-SignedHeaders=host)
 
 ![forecast Expense UI 2](https://github.com/hemantshirsath/Expensetracker/assets/102463335/a2088949-c4f6-4d18-ba23-308ce3ad19f4)
 ![report ui Expensewise](https://github.com/hemantshirsath/Expensetracker/assets/102463335/c3271340-d3ea-4171-9618-04c8c0a98759)
