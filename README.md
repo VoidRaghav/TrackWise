@@ -2,8 +2,8 @@
 ![Expense Tracker UI](https://github-production-user-asset-6210df.s3.amazonaws.com/102463335/277596025-f31d97f4-4841-44cb-b2af-62286c60a0c9.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250310T091248Z&X-Amz-Expires=300&X-Amz-Signature=130e421dfb1cb1499b7fc4be76d7c39f89d5471fbe455fe1c0fab67e0f097194&X-Amz-SignedHeaders=host)
 ![forecast Expense UI ](https://github-production-user-asset-6210df.s3.amazonaws.com/102463335/277673170-c1188567-39c5-4cc1-8916-24f3d3712ee8.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250310T091345Z&X-Amz-Expires=300&X-Amz-Signature=f5b69aeb2b1a31f4830579fd74f09189dff941ef2aa2c4f3c9b00f4fb02b7dde&X-Amz-SignedHeaders=host)
 
-![forecast Expense UI 2](https://github.com/hemantshirsath/Expensetracker/assets/102463335/a2088949-c4f6-4d18-ba23-308ce3ad19f4)
-![report ui Expensewise](https://github.com/hemantshirsath/Expensetracker/assets/102463335/c3271340-d3ea-4171-9618-04c8c0a98759)
+![forecast Expense UI 2](https://github-production-user-asset-6210df.s3.amazonaws.com/102463335/277673219-a2088949-c4f6-4d18-ba23-308ce3ad19f4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250310T091455Z&X-Amz-Expires=300&X-Amz-Signature=b867c8a66f3aef23dc272920285f91f6f2e3f1649c9b731f97e6ece61d49cc81&X-Amz-SignedHeaders=host)
+![report ui Expensewise](https://github-production-user-asset-6210df.s3.amazonaws.com/102463335/277673330-c3271340-d3ea-4171-9618-04c8c0a98759.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250310T091525Z&X-Amz-Expires=300&X-Amz-Signature=d2081dd857f221ed1bc2a955c8f23213bff384e07bc27a10e03f5ec30a07919b&X-Amz-SignedHeaders=host)
 
 ## Overview
 
@@ -86,32 +86,6 @@ To run this application locally, follow these steps:
 4. View your expense history, categorized expenses, and future expense predictions on the dashboard.
 
 5. To access the admin panel, go to `http://localhost:8000/admin/` and log in with your superuser credentials. From the admin panel, you can manage users, categories, and view the database.
-
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository on GitHub.
-
-2. Create a new branch for your feature or bug fix:
-
-   ```bash
-   git checkout -b feature-name
-   ```
-
-3. Make your changes and commit them:
-
-   ```bash
-   git commit -m "Add new feature"
-   ```
-
-4. Push your changes to your forked repository:
-
-   ```bash
-   git push origin feature-name
-   ```
-
-5. Create a pull request on the original repository to propose your changes.
 
 ## Acknowledgments
 
